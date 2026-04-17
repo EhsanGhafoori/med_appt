@@ -1,0 +1,19 @@
+TASK 21 (screenshots folder) — READ BEFORE UPLOADING
+==================================================
+
+Your screenshot MUST show a folder literally named:
+
+  screenshots
+
+inside THIS StayHealthy / med_appt project — NOT "option2-upload-ready"
+or any other course folder.
+
+Steps:
+1. Open File Explorer or VS Code.
+2. Navigate to:  stayhealthy/screenshots   (this project).
+3. Confirm you see 31 files ending in .png (plus this .txt file is OK).
+4. Take ONE screenshot where the folder name "screenshots" is visible
+   and all .png filenames are readable.
+5. Upload THAT image to Coursera Question 21.
+
+If you upload a screenshot of a different folder, you will get 0/4.

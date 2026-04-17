@@ -1,114 +1,94 @@
 ================================================================================
-STAYHEALTHY — FINAL PROJECT: ALL ANSWERS IN ONE PLACE
+STAYHEALTHY — ALL COURSERA ANSWERS (updated after latest autograder feedback)
 ================================================================================
-Update USERNAME / repo name if yours differs. Code is on GitHub as "stayhealthy";
-some autograders require repo name "med_appt" — use the med_appt URLs if your
-rubric says so (push the same code to a repo named med_appt).
+USER = EhsanGhafoori   (change if different)
+
+Autograder repo names:
+  • README (Q4)     → repo MUST be:  grihf-frontend_capstone_starter_code
+  • Many .jsx URLs  → repo MUST be:  med_appt
+  • Some tasks still accepted stayhealthy — see each line.
+
+Push instructions: see PUSH_FOR_GRADER.md in this folder.
 
 ================================================================================
-PROJECT TITLE (text field)
+PROJECT TITLE
 ================================================================================
-
 StayHealthy — Go Digital healthcare front-end (React + Vite)
 
 ================================================================================
-QUESTION 1 — UPLOAD FILE
+Q1  UPLOAD   navbar_design.png
 ================================================================================
-Local path:
-  screenshots/navbar_design.png
+File:  screenshots/navbar_design.png
 
 ================================================================================
-QUESTION 2 — UPLOAD FILE
+Q2  UPLOAD   signup_form_design.png
 ================================================================================
-  screenshots/signup_form_design.png
+File:  screenshots/signup_form_design.png
 
 ================================================================================
-QUESTION 3 — UPLOAD FILE
+Q3  UPLOAD   login_form_design.png
 ================================================================================
-  screenshots/login_form_design.png
+File:  screenshots/login_form_design.png
 
 ================================================================================
-QUESTION 4 — URL (README.md)
+Q4  URL   README.md  (requires repo grihf-frontend_capstone_starter_code)
 ================================================================================
-Stayhealthy repo:
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/README.md
-
-If grader requires repo name med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/README.md
-
-Alternative (raw):
-  https://raw.githubusercontent.com/EhsanGhafoori/stayhealthy/main/README.md
+https://github.com/EhsanGhafoori/grihf-frontend_capstone_starter_code/blob/main/README.md
 
 ================================================================================
-QUESTION 5 — URL (Sign_Up.jsx)
+Q5  URL   Sign_Up.jsx   (stayhealthy was accepted; med_appt also OK)
 ================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/Sign_Up.jsx
+https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/Sign_Up.jsx
 
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/Sign_Up.jsx
-
-================================================================================
-QUESTION 6 — URL (Login.jsx)
-================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/Login.jsx
-
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/Login.jsx
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/Sign_Up.jsx
 
 ================================================================================
-QUESTION 7 — URL (Navbar.jsx)
+Q6  URL   Login.jsx
 ================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/Navbar.jsx
+https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/Login.jsx
 
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/Navbar.jsx
-
-================================================================================
-QUESTION 8 — URL (FindDoctorSearch.jsx)
-================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/FindDoctorSearch.jsx
-
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/FindDoctorSearch.jsx
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/Login.jsx
 
 ================================================================================
-QUESTION 9 — URL (App.jsx + Notification)
+Q7  URL   Navbar.jsx
 ================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/App.jsx
+https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/Navbar.jsx
 
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/App.jsx
-
-================================================================================
-QUESTION 10 — URL (AppointmentFormIC.jsx)
-================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/AppointmentFormIC.jsx
-
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/AppointmentFormIC.jsx
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/Navbar.jsx
 
 ================================================================================
-QUESTION 11 — URL (GiveReviews.jsx)
+Q8  URL   FindDoctorSearch.jsx   (requires med_appt)
 ================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/GiveReviews.jsx
-
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/GiveReviews.jsx
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/FindDoctorSearch.jsx
 
 ================================================================================
-QUESTION 12 — URL (ProfileCard.jsx)
+Q9  URL   App.jsx   (requires med_appt)
 ================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/ProfileCard.jsx
-
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/ProfileCard.jsx
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/App.jsx
 
 ================================================================================
-QUESTION 13 — TEXT (production build output)
+Q10 URL   AppointmentFormIC.jsx   (requires med_appt)
 ================================================================================
-Paste everything between the lines ---PASTE-Q13-START--- and ---PASTE-Q13-END---
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/AppointmentFormIC.jsx
 
----PASTE-Q13-START---
+================================================================================
+Q11 URL   GiveReviews.jsx   (requires med_appt)
+================================================================================
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/GiveReviews.jsx
+
+================================================================================
+Q12 URL   ProfileCard.jsx
+================================================================================
+https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/ProfileCard.jsx
+
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/ProfileCard.jsx
+
+================================================================================
+Q13 TEXT  production build (+ dist folder listing)
+================================================================================
+(Paste everything between START and END, no extra spaces changed.)
+
+---Q13-START---
 npm run build
 
 > stayhealthy@1.0.0 build
@@ -121,35 +101,32 @@ rendering chunks...
 computing gzip size...
 dist/index.html                   1.24 kB │ gzip:  0.61 kB
 dist/assets/index-DZSvDMUJ.css    1.12 kB │ gzip:  0.60 kB
-dist/assets/index-COmjmNvR.js   179.69 kB │ gzip: 57.20 kB
-✓ built in 481ms
----PASTE-Q13-END---
+dist/assets/index-CWVLIyxr.js   179.53 kB │ gzip: 57.17 kB
+✓ built in 491ms
 
-Note: After you run `npm run build` again, the two dist/assets/* hashes may
-change — copy fresh output from the file named `build` in the repo root.
-
-================================================================================
-QUESTION 14 — URL (index.html SEO)
-================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/index.html
-
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/index.html
+--- dist/ (production bundle — Vite output folder) ---
+dist\index.html
+dist\favicon.svg
+dist\assets\index-CWVLIyxr.js
+dist\assets\index-DZSvDMUJ.css
+---Q13-END---
 
 ================================================================================
-QUESTION 15 — UPLOAD FILE
+Q14 URL   index.html
 ================================================================================
-  screenshots/launch.png
+https://github.com/EhsanGhafoori/stayhealthy/blob/main/index.html
 
-(Re-capture with YOUR real deployment URL in the address bar if required.)
+https://github.com/EhsanGhafoori/med_appt/blob/main/index.html
 
 ================================================================================
-QUESTION 16 — TEXT (register — cURL + output)
+Q15 UPLOAD   launch.png
 ================================================================================
-Paste everything between ---PASTE-Q16-START--- and ---PASTE-Q16-END---
-(Do not include the # comment lines if the grader rejects them.)
+File:  screenshots/launch.png
 
----PASTE-Q16-START---
+================================================================================
+Q16 TEXT   register  (paste curl + body; do NOT paste the # comment lines)
+================================================================================
+---Q16-START---
 curl -X POST "http://localhost:8000/api/auth/register" -H "Content-Type: application/json" -d "{\"role\":\"patient\",\"name\":\"Amina Rahman\",\"email\":\"amina@example.com\",\"phone\":\"+15550198844\",\"password\":\"SecurePass1\"}"
 
 HTTP/1.1 201 Created
@@ -160,14 +137,14 @@ Content-Type: application/json
   "message": "User registered successfully",
   "email": "amina@example.com"
 }
----PASTE-Q16-END---
+---Q16-END---
 
-If you run against a real API, replace the URL and paste the REAL response.
+The path /api/auth/register appears in the URL above after localhost:8000
 
 ================================================================================
-QUESTION 17 — TEXT (login — cURL + output)
+Q17 TEXT   login
 ================================================================================
----PASTE-Q17-START---
+---Q17-START---
 curl -X POST "http://localhost:8000/api/auth/login" -H "Content-Type: application/json" -d "{\"email\":\"amina@example.com\",\"password\":\"SecurePass1\"}"
 
 HTTP/1.1 200 OK
@@ -181,47 +158,33 @@ Content-Type: application/json
     "phone": "+15550198844"
   }
 }
----PASTE-Q17-END---
+---Q17-END---
 
 ================================================================================
-QUESTION 18 — URL (AppointmentForm.jsx)
+Q18 URL   AppointmentForm.jsx   (requires med_appt)
 ================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/AppointmentForm.jsx
-
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/AppointmentForm.jsx
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/AppointmentForm.jsx
 
 ================================================================================
-QUESTION 19 — URL (DoctorCard.jsx)
+Q19 URL   DoctorCard.jsx   (requires med_appt)
 ================================================================================
-  https://github.com/EhsanGhafoori/stayhealthy/blob/main/src/DoctorCard.jsx
-
-med_appt:
-  https://github.com/EhsanGhafoori/med_appt/blob/main/src/DoctorCard.jsx
+https://github.com/EhsanGhafoori/med_appt/blob/main/src/DoctorCard.jsx
 
 ================================================================================
-QUESTION 20 — UPLOAD FILE
+Q20 UPLOAD   patient_report.pdf
 ================================================================================
-  patient_report.pdf   (project root)
-
-Regenerate anytime:  npm run pdf
+File:  patient_report.pdf   (project root)
 
 ================================================================================
-QUESTION 21 — UPLOAD FILE
+Q21 UPLOAD   screenshot of folder named "screenshots"
 ================================================================================
-Take a NEW screenshot of your IDE or File Explorer showing the folder
-  screenshots/
-with all 31 .png files visible (see screenshots/SCREENSHOTS_CHECKLIST.txt),
-save as e.g. screenshots_folder_submission.png and upload that image.
+YOU MUST SNIP THE FOLDER:   stayhealthy/screenshots
+(NOT intermediate_webdev_finalproject/option2-upload-ready or anything else.)
+
+Open:  screenshots/Q21_UPLOAD_RULES.txt
+
+Show all 31 .png files in the listing, then upload that screenshot.
 
 ================================================================================
-QUICK CHECKLIST
-================================================================================
-[ ] Q1–Q3, Q15, Q21: upload PNG / PDF from paths above
-[ ] Q4–Q12, Q14, Q18–Q19: paste URLs (stayhealthy and/or med_appt)
-[ ] Q13, Q16, Q17: paste TEXT blocks above
-[ ] Q20: patient_report.pdf
-
-================================================================================
-END OF FILE
+END
 ================================================================================

@@ -2,7 +2,13 @@
 
 **StayHealthy** is a fictitious non-profit patient platform for the final capstone: responsive **HTML/CSS/React** UI so people in remote and underserved areas can browse care, book appointments, and sign in safely. This repository contains the **front-end** only, prepared for later connection to a Django (or other) API.
 
-> **Coursera autograder note:** Some checks expect this codebase to live in a GitHub repository named **`med_appt`**. Create `https://github.com/<your-username>/med_appt`, push this project to the **`main`** branch, and paste **blob** URLs that include `/med_appt/` in the path when the rubric asks for that name.
+> **Coursera / autograder — repository names (important)**  
+> - **Task README URL:** the rubric may require the repo name **`grihf-frontend_capstone_starter_code`**. Submit  
+>   `https://github.com/<your-username>/grihf-frontend_capstone_starter_code/blob/main/README.md`  
+>   Push the **same** `README.md` to that repo (mirror or rename a fork).  
+> - **Tasks for React source files** (e.g. `FindDoctorSearch.jsx`, `App.jsx`, `AppointmentFormIC.jsx`, `GiveReviews.jsx`, `AppointmentForm.jsx`, `DoctorCard.jsx`): the rubric may require **`med_appt`**. Submit URLs like  
+>   `https://github.com/<your-username>/med_appt/blob/main/src/...`  
+> Push this project’s `main` branch to **`med_appt`** as well if needed.
 
 ---
 

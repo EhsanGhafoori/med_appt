@@ -60,7 +60,7 @@ export default function GiveReviews({ doctorId }) {
       </button>
       {submitted ? (
         <p style={{ marginTop: "0.75rem", color: "#047857", fontWeight: 600 }}>
-          Form locked: post-submission disabling is active (no further edits).
+          Post-submission: all review fields and submit are disabled (fieldset disabled=true).
         </p>
       ) : null}
     </form>
