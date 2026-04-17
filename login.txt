@@ -1,0 +1,15 @@
+curl -X POST "https://api.stayhealthy.example/api/auth/login" ^
+  -H "Content-Type: application/json" ^
+  -d "{\"email\":\"amina@example.com\",\"password\":\"SecurePass1\"}"
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.demo",
+  "user": {
+    "name": "Amina Rahman",
+    "email": "amina@example.com",
+    "phone": "+15550198844"
+  }
+}

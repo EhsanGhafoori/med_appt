@@ -1,0 +1,14 @@
+npm run build
+
+> stayhealthy@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 47 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   1.24 kB │ gzip:  0.61 kB
+dist/assets/index-AuFGe08i.css    0.99 kB │ gzip:  0.52 kB
+dist/assets/index-Cj38bocP.js   178.56 kB │ gzip: 56.88 kB
+✓ built in 1.45s
