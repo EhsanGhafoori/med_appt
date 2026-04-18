@@ -28,6 +28,10 @@ In `MainActivity.kt`:
 - Retrofit base URL: `https://raw.githubusercontent.com/EhsanGhafoori/LittleLemonMenu/main/`  
   After you push this repository, the app can load `menu.json` over the network. Until then, the repository falls back to assets.
 
+## Project location
+
+This Android project lives at **`D:\Documents\Projects\courses\LittleLemonMenu`** (not inside the StayHealthy / `test1` web project).
+
 ## Zip for peer upload
 
 Delete `build` folders, then zip the whole `LittleLemonMenu` folder (Windows: Send to → Compressed folder).

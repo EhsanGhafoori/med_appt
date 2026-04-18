@@ -1,0 +1,22 @@
+================================================================================
+Little Lemon Menu — ready to push (separate from StayHealthy / test1)
+================================================================================
+Local project path:
+  D:\Documents\Projects\courses\LittleLemonMenu
+
+This folder is NOT inside stayhealthy or test1 — it lives under "courses" only.
+
+Steps:
+1. Create an empty repo on GitHub named:  LittleLemonMenu  (public)
+2. In PowerShell:
+
+   cd D:\Documents\Projects\courses\LittleLemonMenu
+   git remote add origin https://github.com/EhsanGhafoori/LittleLemonMenu.git
+   git push -u origin main
+
+   (Change EhsanGhafoori if your GitHub username differs.)
+
+3. After the first push, the app can load menu JSON from:
+   https://raw.githubusercontent.com/EhsanGhafoori/LittleLemonMenu/main/menu.json
+
+================================================================================
