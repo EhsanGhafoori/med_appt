@@ -1,0 +1,14 @@
+[
+  {"id": 1, "title": "Bruschetta", "price": 8.99, "category": "Appetizers"},
+  {"id": 2, "title": "Hummus Trio", "price": 9.5, "category": "Appetizers"},
+  {"id": 3, "title": "Stuffed Grape Leaves", "price": 7.25, "category": "Appetizers"},
+  {"id": 4, "title": "Grilled Halloumi", "price": 10.0, "category": "Appetizers"},
+  {"id": 5, "title": "Greek Salad", "price": 12.99, "category": "Salads"},
+  {"id": 6, "title": "Caesar Salad", "price": 11.5, "category": "Salads"},
+  {"id": 7, "title": "Fattoush", "price": 10.75, "category": "Salads"},
+  {"id": 8, "title": "Lemon Arugula Salad", "price": 11.0, "category": "Salads"},
+  {"id": 9, "title": "Fresh Lemonade", "price": 4.5, "category": "Beverages"},
+  {"id": 10, "title": "Mint Iced Tea", "price": 3.99, "category": "Beverages"},
+  {"id": 11, "title": "Sparkling Water", "price": 2.5, "category": "Beverages"},
+  {"id": 12, "title": "House Red Wine", "price": 9.0, "category": "Beverages"}
+]
