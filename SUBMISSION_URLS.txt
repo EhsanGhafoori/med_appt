@@ -1,0 +1,37 @@
+Replace YOUR_USER. Use repository name **med_appt** if the autograder requires it.
+
+README (Task 4):
+https://github.com/YOUR_USER/med_appt/blob/main/README.md
+
+Sign_Up.jsx (Task 5):
+https://github.com/YOUR_USER/med_appt/blob/main/src/Sign_Up.jsx
+
+Login.jsx (Task 6):
+https://github.com/YOUR_USER/med_appt/blob/main/src/Login.jsx
+
+Navbar.jsx (Task 7):
+https://github.com/YOUR_USER/med_appt/blob/main/src/Navbar.jsx
+
+FindDoctorSearch.jsx (Task 8):
+https://github.com/YOUR_USER/med_appt/blob/main/src/FindDoctorSearch.jsx
+
+App.jsx (Task 9):
+https://github.com/YOUR_USER/med_appt/blob/main/src/App.jsx
+
+AppointmentFormIC.jsx (Task 10):
+https://github.com/YOUR_USER/med_appt/blob/main/src/AppointmentFormIC.jsx
+
+GiveReviews.jsx (Task 11):
+https://github.com/YOUR_USER/med_appt/blob/main/src/GiveReviews.jsx
+
+ProfileCard.jsx (Task 12):
+https://github.com/YOUR_USER/med_appt/blob/main/src/ProfileCard.jsx
+
+index.html (Task 14):
+https://github.com/YOUR_USER/med_appt/blob/main/index.html
+
+AppointmentForm.jsx (Task 18):
+https://github.com/YOUR_USER/med_appt/blob/main/src/AppointmentForm.jsx
+
+DoctorCard.jsx (Task 19):
+https://github.com/YOUR_USER/med_appt/blob/main/src/DoctorCard.jsx

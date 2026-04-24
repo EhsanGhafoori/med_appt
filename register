@@ -1,0 +1,12 @@
+http://localhost:8000/api/auth/register
+
+curl -X POST http://localhost:8000/api/auth/register -H "Content-Type: application/json" -d "{\"role\":\"patient\",\"name\":\"Amina Rahman\",\"email\":\"amina@example.com\",\"phone\":\"+15550198844\",\"password\":\"SecurePass1\"}"
+
+HTTP/1.1 201 Created
+Content-Type: application/json
+
+{
+  "id": "usr_20481",
+  "message": "User registered successfully",
+  "email": "amina@example.com"
+}

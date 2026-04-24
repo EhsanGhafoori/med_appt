@@ -1,0 +1,14 @@
+This folder must contain 31 PNG files for Task 21 (autograder).
+
+Current files (31):
+  1. navbar_design.png
+  2. signup_form_design.png
+  3. login_form_design.png
+  4. launch.png
+  5–31. stayhealthy_task_05.png … stayhealthy_task_31.png
+
+Replace stayhealthy_task_*.png tiny placeholders with your real course screenshots
+(Figma exports / browser Snips) while keeping the same filenames.
+
+For Task 21 upload: take a NEW screenshot of this folder in VS Code / Explorer
+showing all 31 .png files listed.
